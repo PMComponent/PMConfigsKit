@@ -1,0 +1,6 @@
+framework module Pods_PMConfigsKit_Tests {
+  umbrella header "Pods-PMConfigsKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

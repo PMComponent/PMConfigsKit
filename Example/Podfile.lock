@@ -1,0 +1,16 @@
+PODS:
+  - PMConfigsKit (0.1.0)
+
+DEPENDENCIES:
+  - PMConfigsKit (from `../`)
+
+EXTERNAL SOURCES:
+  PMConfigsKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PMConfigsKit: 209bf22adf7f1dfd8a2aed311435d9abf8f46179
+
+PODFILE CHECKSUM: 2f35ea8c3df8302be634b88678ace05c7262d871
+
+COCOAPODS: 1.9.0

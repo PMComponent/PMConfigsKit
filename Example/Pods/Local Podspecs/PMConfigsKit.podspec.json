@@ -1,0 +1,22 @@
+{
+  "name": "PMConfigsKit",
+  "version": "0.1.0",
+  "summary": "A short description of PMConfigsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/PMComponent/PMConfigsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LuminousZPM": "zhangpeiming1991@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/PMComponent/PMConfigsKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PMConfigsKit/Classes/**/*"
+}
